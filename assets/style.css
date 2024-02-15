@@ -66,6 +66,27 @@ a:hover{
 .gap-6{
     gap: 80px;
 }
+.fa-facebook{
+    background-color: #ff0000;
+    color: #fff;
+    padding: 12px;
+    border: none;
+    border-radius: 50px;
+}
+.fa-instagram{
+    background-color: #ff0000;
+    color: #fff;
+    padding: 12px;
+    border: none;
+    border-radius: 50px;
+}
+.fa-twitter{
+    background-color: #ff0000;
+    color: #fff;
+    padding: 12px;
+    border: none;
+    border-radius: 50px;
+}
 
 
 
