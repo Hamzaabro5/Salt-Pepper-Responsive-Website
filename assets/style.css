@@ -18,7 +18,7 @@ a:hover{
     transition: 0.5s;
 }
 .nav-list{
-    font-size: 16px;
+    font-size: 17px;
 }
 .nav-button-1{
     font-size: 15px;
@@ -87,7 +87,16 @@ a:hover{
     border: none;
     border-radius: 50px;
 }
-
+.float-button{
+    position: fixed;
+    top: 90%;
+    left: 2%;
+    background-color:#1f1f1f;
+    border: none;
+    color: #fff;
+    padding: 10px 15px;
+    border-radius: 10px;
+}
 
 
 @media(max-width:750px){
